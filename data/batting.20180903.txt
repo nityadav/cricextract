@@ -1,0 +1,1062 @@
+CT Bancroft (AUS)	0	6	7	0	0	0.00	2		v England	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+MD Stoneman (ENG)	0	15	9	0	0	0.00	3		v Australia	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+D Elgar (SA)	0	2	3	0	0	0.00	1		v India	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+WP Saha (INDIA)	0	14	8	0	0	0.00	2		v South Africa	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+F du Plessis (SA)	0	16	5	0	0	0.00	3		v India	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+VD Philander (SA)	0	17	10	0	0	0.00	3		v India	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+JJ Bumrah (INDIA)	0	1	1	0	0	0.00	4		v South Africa	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+Q de Kock (SA)	0	4	1	0	0	0.00	1		v India	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+VD Philander (SA)	0	6	6	0	0	0.00	1		v India	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+CA Pujara (INDIA)	0	3	1	0	0	0.00	2		v South Africa	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+KL Rahul (INDIA)	0	14	7	0	0	0.00	1		v South Africa	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+HH Pandya (INDIA)	0	11	5	0	0	0.00	1		v South Africa	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+I Sharma (INDIA)	0	22	12	0	0	0.00	1		v South Africa	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+L Ngidi (SA)	0	2	2	0	0	0.00	2		v India	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+JJ Bumrah (INDIA)	0	13	7	0	0	0.00	3		v South Africa	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+Q de Kock (SA)	0	12	1	0	0	0.00	4		v India	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+AL Phehlukwayo (SA)	0	4	3	0	0	0.00	4		v India	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+K Rabada (SA)	0	5	3	0	0	0.00	4		v India	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+M Morkel (SA)	0	4	1	0	0	0.00	4		v India	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+Liton Das (BDESH)	0	-	1	0	0	0.00	1		v Sri Lanka	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+FDM Karunaratne (SL)	0	-	9	0	0	0.00	2		v Bangladesh	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+LD Chandimal (SL)	0	-	1	0	0	0.00	1		v Bangladesh	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+Mominul Haque (BDESH)	0	-	3	0	0	0.00	2		v Sri Lanka	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+Sabbir Rahman (BDESH)	0	-	3	0	0	0.00	2		v Sri Lanka	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+Mustafizur Rahman (BDESH)	0	-	1	0	0	0.00	2		v Sri Lanka	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+A Dananjaya (SL)	0	-	1	0	0	0.00	3		v Bangladesh	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+HMRKB Herath (SL)	0	-	1	0	0	0.00	3		v Bangladesh	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+HM Amla (SA)	0	2	3	0	0	0.00	2		v Australia	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+KA Maharaj (SA)	0	5	5	0	0	0.00	2		v Australia	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+M Morkel (SA)	0	2	2	0	0	0.00	2		v Australia	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+AB de Villiers (SA)	0	5	1	0	0	0.00	4		v Australia	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+KA Maharaj (SA)	0	3	3	0	0	0.00	4		v Australia	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+K Rabada (SA)	0	1	1	0	0	0.00	4		v Australia	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+PJ Cummins (AUS)	0	1	1	0	0	0.00	1		v South Africa	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+JE Root (ENG)	0	9	6	0	0	0.00	1		v New Zealand	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+BA Stokes (ENG)	0	10	8	0	0	0.00	1		v New Zealand	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+JM Bairstow (ENG)	0	8	4	0	0	0.00	1		v New Zealand	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+MM Ali (ENG)	0	17	8	0	0	0.00	1		v New Zealand	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+SCJ Broad (ENG)	0	8	6	0	0	0.00	1		v New Zealand	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+AK Markram (SA)	0	17	11	0	0	0.00	1		v Australia	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+SE Marsh (AUS)	0	3	1	0	0	0.00	4		v South Africa	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+PJ Cummins (AUS)	0	5	1	0	0	0.00	4		v South Africa	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+NM Lyon (AUS)	0	4	0	0	0	-	4		v South Africa	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+DJ Malan (ENG)	0	4	1	0	0	0.00	1		v New Zealand	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+TWM Latham (NZ)	0	6	3	0	0	0.00	2		v England	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+HM Nicholls (NZ)	0	12	7	0	0	0.00	2		v England	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+KS Williamson (NZ)	0	1	1	0	0	0.00	4		v England	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+F du Plessis (SA)	0	4	1	0	0	0.00	1		v Australia	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+K Rabada (SA)	0	3	2	0	0	0.00	1		v Australia	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+M Morkel (SA)	0	2	1	0	0	0.00	1		v Australia	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+PSP Handscomb (AUS)	0	6	1	0	0	0.00	2		v South Africa	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+CJ Sayers (AUS)	0	5	4	0	0	0.00	2		v South Africa	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+MR Marsh (AUS)	0	2	3	0	0	0.00	4		v South Africa	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+CJ Sayers (AUS)	0	2	1	0	0	0.00	4		v South Africa	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+A Balbirnie (IRE)	0	16	8	0	0	0.00	2		v Pakistan	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+NJ O'Brien (IRE)	0	12	10	0	0	0.00	2		v Pakistan	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+TE Kane (IRE)	0	2	2	0	0	0.00	2		v Pakistan	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+A Balbirnie (IRE)	0	5	4	0	0	0.00	3		v Pakistan	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+SCJ Broad (ENG)	0	3	2	0	0	0.00	1		v Pakistan	Lord's	24 May 2018		/ci/engine/match/1119535.html
+Hasan Ali (PAK)	0	5	2	0	0	0.00	2		v England	Lord's	24 May 2018		/ci/engine/match/1119535.html
+JM Bairstow (ENG)	0	5	2	0	0	0.00	3		v Pakistan	Lord's	24 May 2018		/ci/engine/match/1119535.html
+SCJ Broad (ENG)	0	7	2	0	0	0.00	3		v Pakistan	Lord's	24 May 2018		/ci/engine/match/1119535.html
+Imam-ul-Haq (PAK)	0	10	6	0	0	0.00	1		v England	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+Faheem Ashraf (PAK)	0	5	5	0	0	0.00	1		v England	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+MDKJ Perera (SL)	0	3	1	0	0	0.00	2		v West Indies	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+HMRKB Herath (SL)	0	8	7	0	0	0.00	4		v West Indies	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+CBRLS Kumara (SL)	0	2	1	0	0	0.00	4		v West Indies	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+Yamin Ahmadzai (AFG)	0	10	9	0	0	0.00	2		v India	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+Mohammad Nabi (AFG)	0	4	4	0	0	0.00	3		v India	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+Wafadar Momand (AFG)	0	8	7	0	0	0.00	3		v India	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+ML Udawatte (SL)	0	-	2	0	0	0.00	1		v West Indies	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+CBRLS Kumara (SL)	0	-	6	0	0	0.00	1		v West Indies	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+CAK Rajitha (SL)	0	-	6	0	0	0.00	3		v West Indies	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+D Bishoo (WI)	0	-	13	0	0	0.00	1		v Sri Lanka	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+MDKJ Perera (SL)	0	-	9	0	0	0.00	2		v West Indies	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+RAS Lakmal (SL)	0	-	4	0	0	0.00	2		v West Indies	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+CAK Rajitha (SL)	0	-	11	0	0	0.00	2		v West Indies	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+CBRLS Kumara (SL)	0	-	0	0	0	-	2		v West Indies	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+DS Smith (WI)	0	-	4	0	0	0.00	3		v Sri Lanka	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+SD Hope (WI)	0	-	2	0	0	0.00	3		v Sri Lanka	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+D Bishoo (WI)	0	-	2	0	0	0.00	3		v Sri Lanka	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+ML Udawatte (SL)	0	-	6	0	0	0.00	4		v West Indies	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+Mushfiqur Rahim (BDESH)	0	-	2	0	0	0.00	1		v West Indies	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+Shakib Al Hasan (BDESH)	0	-	2	0	0	0.00	1		v West Indies	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+Mahmudullah (BDESH)	0	-	1	0	0	0.00	1		v West Indies	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+Kamrul Islam Rabbi (BDESH)	0	-	3	0	0	0.00	1		v West Indies	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+Mominul Haque (BDESH)	0	-	2	0	0	0.00	3		v West Indies	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+ARS Silva (SL)	0	3	2	0	0	0.00	1		v South Africa	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+AK Markram (SA)	0	7	7	0	0	0.00	2		v Sri Lanka	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+BKG Mendis (SL)	0	5	3	0	0	0.00	3		v South Africa	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+HMRKB Herath (SL)	0	9	5	0	0	0.00	3		v South Africa	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+HM Amla (SA)	0	6	2	0	0	0.00	4		v Sri Lanka	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+K Rabada (SA)	0	9	10	0	0	0.00	4		v Sri Lanka	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+KMA Paul (WI)	0	-	5	0	0	0.00	1		v Bangladesh	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+ML Cummins (WI)	0	-	1	0	0	0.00	1		v Bangladesh	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+Mominul Haque (BDESH)	0	-	2	0	0	0.00	2		v West Indies	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+Mahmudullah (BDESH)	0	-	2	0	0	0.00	2		v West Indies	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+Nurul Hasan (BDESH)	0	-	1	0	0	0.00	2		v West Indies	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+Abu Jayed (BDESH)	0	-	1	0	0	0.00	2		v West Indies	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+ST Gabriel (WI)	0	-	5	0	0	0.00	3		v Bangladesh	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+Tamim Iqbal (BDESH)	0	-	7	0	0	0.00	4		v West Indies	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+Nurul Hasan (BDESH)	0	-	1	0	0	0.00	4		v West Indies	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+Kamrul Islam Rabbi (BDESH)	0	-	2	0	0	0.00	4		v West Indies	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+Abu Jayed (BDESH)	0	-	5	0	0	0.00	4		v West Indies	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+RAS Lakmal (SL)	0	2	4	0	0	0.00	1		v South Africa	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+D Elgar (SA)	0	5	4	0	0	0.00	2		v Sri Lanka	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+DW Steyn (SA)	0	4	2	0	0	0.00	2		v Sri Lanka	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+DM de Silva (SL)	0	10	3	0	0	0.00	3		v South Africa	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+KA Maharaj (SA)	0	3	1	0	0	0.00	4		v Sri Lanka	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+JC Buttler (ENG)	0	4	2	0	0	0.00	1		v India	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+KD Karthik (INDIA)	0	8	4	0	0	0.00	2		v England	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+AN Cook (ENG)	0	14	14	0	0	0.00	3		v India	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+Mohammed Shami (INDIA)	0	3	3	0	0	0.00	4		v England	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+M Vijay (INDIA)	0	3	5	0	0	0.00	1		v England	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+Kuldeep Yadav (INDIA)	0	19	11	0	0	0.00	1		v England	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+I Sharma (INDIA)	0	7	3	0	0	0.00	1		v England	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+M Vijay (INDIA)	0	10	8	0	0	0.00	3		v England	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+KD Karthik (INDIA)	0	3	1	0	0	0.00	3		v England	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+Kuldeep Yadav (INDIA)	0	8	7	0	0	0.00	3		v England	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+Mohammed Shami (INDIA)	0	10	3	0	0	0.00	3		v England	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+JJ Bumrah (INDIA)	0	2	1	0	0	0.00	1		v England	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+SCJ Broad (ENG)	0	5	4	0	0	0.00	2		v India	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+JM Bairstow (ENG)	0	2	1	0	0	0.00	4		v India	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+KK Jennings (ENG)	0	10	4	0	0	0.00	1		v India	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+RR Pant (INDIA)	0	47	29	0	0	0.00	2		v England	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+Mohammed Shami (INDIA)	0	2	1	0	0	0.00	2		v England	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+JM Bairstow (ENG)	0	2	1	0	0	0.00	3		v India	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+SCJ Broad (ENG)	0	1	1	0	0	0.00	3		v India	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+KL Rahul (INDIA)	0	13	7	0	0	0.00	4		v England	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+HH Pandya (INDIA)	0	13	7	0	0	0.00	4		v England	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+I Sharma (INDIA)	0	6	5	0	0	0.00	4		v England	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+JM Anderson (ENG)	0*	6	3	0	0	0.00	1		v Australia	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+DW Steyn (SA)	0*	5	4	0	0	0.00	3		v India	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+JJ Bumrah (INDIA)	0*	8	2	0	0	0.00	2		v South Africa	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+JJ Bumrah (INDIA)	0*	23	7	0	0	0.00	1		v South Africa	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+JM Anderson (ENG)	0*	8	4	0	0	0.00	1		v New Zealand	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+TG Southee (NZ)	0*	1	0	0	0	-	4		v England	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+Rahat Ali (PAK)	0*	13	6	0	0	0.00	1		v Ireland	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+JM Anderson (ENG)	0*	5	1	0	0	0.00	1		v Pakistan	Lord's	24 May 2018		/ci/engine/match/1119535.html
+JM Anderson (ENG)	0*	5	2	0	0	0.00	3		v Pakistan	Lord's	24 May 2018		/ci/engine/match/1119535.html
+ML Cummins (WI)	0*	4	5	0	0	0.00	1		v Sri Lanka	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+PLS Gamage (SL)	0*	23	10	0	0	0.00	2		v West Indies	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+CBRLS Kumara (SL)	0*	-	5	0	0	0.00	3		v West Indies	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+Abu Jayed (BDESH)	0*	-	5	0	0	0.00	3		v West Indies	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+T Shamsi (SA)	0*	9	3	0	0	0.00	2		v Sri Lanka	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+Kamrul Islam Rabbi (BDESH)	0*	-	16	0	0	0.00	2		v West Indies	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+L Ngidi (SA)	0*	4	2	0	0	0.00	2		v Sri Lanka	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+JM Anderson (ENG)	0*	5	0	0	0	-	3		v India	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+UT Yadav (INDIA)	0*	19	8	0	0	0.00	4		v England	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+JM Anderson (ENG)	0*	14	4	0	0	0.00	1		v India	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+JJ Bumrah (INDIA)	0*	28	8	0	0	0.00	4		v England	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+M Vijay (INDIA)	1	21	17	0	0	5.88	2		v South Africa	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+HH Pandya (INDIA)	1	5	5	0	0	20.00	4		v South Africa	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+Mohammed Shami (INDIA)	1	7	9	0	0	11.11	2		v South Africa	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+AK Markram (SA)	1	3	8	0	0	12.50	3		v India	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+HM Amla (SA)	1	15	10	0	0	10.00	3		v India	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+L Ngidi (SA)	1	10	10	0	0	10.00	3		v India	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+CA Pujara (INDIA)	1	15	10	0	0	10.00	3		v South Africa	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+Taijul Islam (BDESH)	1	-	3	0	0	33.33	1		v Sri Lanka	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+N Dickwella (SL)	1	-	3	0	0	33.33	1		v Bangladesh	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+Mushfiqur Rahim (BDESH)	1	-	22	0	0	4.54	2		v Sri Lanka	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+Abdur Razzak (BDESH)	1	-	4	0	0	25.00	2		v Sri Lanka	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+Taijul Islam (BDESH)	1	-	6	0	0	16.66	2		v Sri Lanka	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+Sabbir Rahman (BDESH)	1	-	2	0	0	50.00	4		v Sri Lanka	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+TB de Bruyn (SA)	1	10	8	0	0	12.50	2		v Australia	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+SE Marsh (AUS)	1	12	5	0	0	20.00	3		v South Africa	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+MA Starc (AUS)	1	11	10	0	0	10.00	3		v South Africa	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+JM Anderson (ENG)	1	21	11	0	0	9.09	1		v New Zealand	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+JM Anderson (ENG)	1	5	5	0	0	20.00	3		v New Zealand	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+T Bavuma (SA)	1	14	12	0	0	8.33	1		v Australia	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+UT Khawaja (AUS)	1	18	9	0	0	11.11	4		v South Africa	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+IS Sodhi (NZ)	1	7	7	0	0	14.28	2		v England	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+PJ Cummins (AUS)	1	25	12	0	0	8.33	4		v South Africa	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+WTS Porterfield (IRE)	1	30	20	0	0	5.00	2		v Pakistan	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+Asad Shafiq (PAK)	1	6	5	0	0	20.00	4		v Ireland	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+AN Cook (ENG)	1	8	10	0	0	10.00	3		v Pakistan	Lord's	24 May 2018		/ci/engine/match/1119535.html
+Mohammad Abbas (PAK)	1	13	10	0	0	10.00	3		v England	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+SD Hope (WI)	1	18	6	0	0	16.66	3		v Sri Lanka	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+RAS Lakmal (SL)	1	5	4	0	0	25.00	4		v West Indies	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+Javed Ahmadi (AFG)	1	25	8	0	0	12.50	2		v India	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+Afsar Zazai (AFG)	1	6	9	0	0	11.11	3		v India	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+Yamin Ahmadzai (AFG)	1	17	15	0	0	6.66	3		v India	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+DS Smith (WI)	1	-	5	0	0	20.00	4		v Sri Lanka	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+ARS Silva (SL)	1	-	7	0	0	14.28	4		v West Indies	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+Mominul Haque (BDESH)	1	-	3	0	0	33.33	1		v West Indies	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+Mehidy Hasan Miraz (BDESH)	1	-	8	0	0	12.50	1		v West Indies	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+AD Mathews (SL)	1	15	10	0	0	10.00	1		v South Africa	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+MDK Perera (SL)	1	3	4	0	0	25.00	1		v South Africa	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+HMRKB Herath (SL)	1	16	7	0	0	14.28	1		v South Africa	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+F du Plessis (SA)	1	5	3	0	0	33.33	4		v Sri Lanka	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+JO Holder (WI)	1	-	10	0	0	10.00	3		v Bangladesh	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+ML Cummins (WI)	1	-	5	0	0	20.00	3		v Bangladesh	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+K Rabada (SA)	1	16	10	0	0	10.00	2		v Sri Lanka	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+SCJ Broad (ENG)	1	8	7	0	0	14.28	1		v India	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+JC Buttler (ENG)	1	7	2	0	0	50.00	3		v India	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+CA Pujara (INDIA)	1	41	25	0	0	4.00	1		v England	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+KD Karthik (INDIA)	1	6	3	0	0	33.33	1		v England	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+RR Pant (INDIA)	1	6	6	0	0	16.66	3		v England	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+R Ashwin (INDIA)	1	10	7	0	0	14.28	2		v England	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+L Ngidi (SA)	1*	6	4	0	0	25.00	1		v India	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+SCJ Broad (ENG)	1*	36	19	0	0	5.26	3		v New Zealand	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+JR Hazlewood (AUS)	1*	15	4	0	0	25.00	2		v South Africa	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+Mohammad Abbas (PAK)	1*	20	13	0	0	7.69	1		v England	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+ML Cummins (WI)	1*	-	12	0	0	8.33	2		v Bangladesh	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+UT Yadav (INDIA)	1*	49	16	0	0	6.25	2		v England	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+I Sharma (INDIA)	1*	18	5	0	0	20.00	1		v England	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+JM Anderson (ENG)	1*	31	7	0	0	14.28	2		v India	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+R Ashwin (INDIA)	1*	3	1	0	0	100.00	3		v England	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+JM Anderson (ENG)	1*	19	9	0	0	11.11	3		v India	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+MS Crane (ENG)	2	17	4	0	0	50.00	3		v Australia	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+JM Anderson (ENG)	2	35	23	0	0	8.69	3		v Australia	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+M Morkel (SA)	2	15	9	0	0	22.22	1		v India	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+JJ Bumrah (INDIA)	2	20	13	0	0	15.38	2		v South Africa	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+M Morkel (SA)	2	9	4	0	0	50.00	3		v India	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+JJ Bumrah (INDIA)	2	9	6	0	0	33.33	4		v South Africa	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+PA Patel (INDIA)	2	49	22	0	0	9.09	1		v South Africa	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+AK Markram (SA)	2	9	8	0	0	25.00	2		v India	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+F du Plessis (SA)	2	24	9	0	0	22.22	4		v India	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+Mushfiqur Rahim (BDESH)	2	-	20	0	0	10.00	3		v Sri Lanka	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+HMRKB Herath (SL)	2	-	4	0	0	50.00	1		v Bangladesh	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+Tamim Iqbal (BDESH)	2	-	7	0	0	28.57	4		v Sri Lanka	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+Abdur Razzak (BDESH)	2	-	3	0	0	66.66	4		v Sri Lanka	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+NM Lyon (AUS)	2	25	11	0	0	18.18	3		v South Africa	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+DJ Malan (ENG)	2	9	6	0	0	33.33	1		v New Zealand	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+AN Cook (ENG)	2	11	11	0	0	18.18	3		v New Zealand	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+MA Starc (AUS)	2	9	5	0	0	40.00	2		v South Africa	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+AN Cook (ENG)	2	9	7	0	0	28.57	1		v New Zealand	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+LRPL Taylor (NZ)	2	15	13	0	0	15.38	2		v England	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+Azhar Ali (PAK)	2	3	4	0	0	50.00	4		v Ireland	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+Azhar Ali (PAK)	2	42	29	0	0	6.89	1		v England	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+SCJ Broad (ENG)	2	24	15	0	0	13.33	2		v Pakistan	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+A Dananjaya (SL)	2	-	10	0	0	20.00	1		v West Indies	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+D Bishoo (WI)	2	-	13	0	0	15.38	2		v Sri Lanka	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+KOA Powell (WI)	2	-	2	0	0	100.00	4		v Sri Lanka	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+KC Brathwaite (WI)	2	-	14	0	0	14.28	1		v Sri Lanka	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+DS Smith (WI)	2	-	5	0	0	40.00	1		v Sri Lanka	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+ML Cummins (WI)	2	-	18	0	0	11.11	1		v Sri Lanka	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+ST Gabriel (WI)	2	-	6	0	0	33.33	1		v Sri Lanka	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+KC Brathwaite (WI)	2	-	9	0	0	22.22	3		v Sri Lanka	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+Abu Jayed (BDESH)	2	-	7	0	0	28.57	1		v West Indies	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+RL Chase (WI)	2	-	10	0	0	20.00	2		v Bangladesh	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+Liton Das (BDESH)	2	-	17	0	0	11.76	3		v West Indies	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+Mehidy Hasan Miraz (BDESH)	2	-	10	0	0	20.00	3		v West Indies	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+K Rabada (SA)	2	17	9	0	0	22.22	2		v Sri Lanka	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+MDK Perera (SL)	2	4	2	0	0	100.00	3		v South Africa	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+T Bavuma (SA)	2	13	17	0	0	11.76	4		v Sri Lanka	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+DW Steyn (SA)	2	9	6	0	0	33.33	4		v Sri Lanka	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+T Shamsi (SA)	2	19	21	0	0	9.52	4		v Sri Lanka	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+DS Smith (WI)	2	-	22	0	0	9.09	1		v Bangladesh	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+KA Maharaj (SA)	2	6	4	0	0	50.00	2		v Sri Lanka	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+Mohammed Shami (INDIA)	2	17	4	0	0	50.00	2		v England	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+AM Rahane (INDIA)	2	34	16	0	0	12.50	4		v England	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+I Sharma (INDIA)	2	11	7	0	0	28.57	3		v England	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+CBRLS Kumara (SL)	2*	-	6	0	0	33.33	2		v Bangladesh	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+JR Hazlewood (AUS)	2*	6	4	0	0	50.00	1		v South Africa	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+F du Plessis (SA)	2*	19	10	0	0	20.00	4		v Australia	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+JM Anderson (ENG)	2*	24	15	0	0	13.33	1		v India	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+HM Amla (SA)	3	20	10	0	0	30.00	1		v India	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+I Sharma (INDIA)	3	34	20	0	0	15.00	2		v South Africa	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+R Ashwin (INDIA)	3	9	6	0	0	50.00	4		v South Africa	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+FDM Karunaratne (SL)	3	-	12	0	0	25.00	1		v Bangladesh	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+PJ Cummins (AUS)	3	51	38	0	0	7.89	1		v South Africa	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+K Rabada (SA)	3	6	5	0	0	60.00	2		v Australia	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+JA Raval (NZ)	3	33	23	0	0	13.04	2		v England	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+C Overton (ENG)	3	18	18	0	0	16.66	3		v New Zealand	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+Q de Kock (SA)	3	20	11	0	0	27.27	1		v Australia	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+KA Maharaj (SA)	3	7	7	0	0	42.85	1		v Australia	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+SR Thompson (IRE)	3	40	21	0	0	14.28	2		v Pakistan	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+Faheem Ashraf (PAK)	3	27	19	0	0	15.78	3		v England	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+KC Brathwaite (WI)	3	13	13	0	0	23.07	1		v Sri Lanka	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+PLS Gamage (SL)	3	84	49	0	0	6.12	4		v West Indies	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+Javed Ahmadi (AFG)	3	28	11	0	0	27.27	3		v India	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+Mujeeb Ur Rahman (AFG)	3	12	8	0	0	37.50	3		v India	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+ST Gabriel (WI)	3	-	8	0	0	37.50	2		v Sri Lanka	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+DM de Silva (SL)	3	-	15	0	0	20.00	3		v West Indies	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+KA Maharaj (SA)	3	13	12	0	0	25.00	2		v Sri Lanka	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+Q de Kock (SA)	3	9	8	0	0	37.50	2		v Sri Lanka	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+Mehidy Hasan Miraz (BDESH)	3	-	12	0	0	25.00	2		v West Indies	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+TB de Bruyn (SA)	3	7	8	0	0	37.50	2		v Sri Lanka	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+Mohammed Shami (INDIA)	3	7	5	0	0	60.00	1		v England	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+Mohammed Shami (INDIA)	3	12	6	0	0	50.00	3		v England	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+M Morkel (SA)	3*	43	38	0	0	7.89	4		v Australia	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+MDK Perera (SL)	3*	18	8	0	0	37.50	4		v West Indies	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+MS Crane (ENG)	4	18	7	0	0	57.14	1		v Australia	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+SCJ Broad (ENG)	4	3	2	1	0	200.00	3		v Australia	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+HM Amla (SA)	4	25	15	1	0	26.66	3		v India	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+CA Pujara (INDIA)	4	22	13	0	0	30.76	4		v South Africa	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+Mohammed Shami (INDIA)	4	3	2	1	0	200.00	4		v South Africa	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+K Rabada (SA)	4	47	29	1	0	13.79	3		v India	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+KL Rahul (INDIA)	4	50	29	0	0	13.79	4		v South Africa	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+D Elgar (SA)	4	53	40	0	0	10.00	2		v India	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+HH Pandya (INDIA)	4	23	11	0	0	36.36	3		v South Africa	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+AK Markram (SA)	4	7	7	1	0	57.14	4		v India	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+L Ngidi (SA)	4	19	6	1	0	66.66	4		v India	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+Tamim Iqbal (BDESH)	4	-	3	1	0	133.33	2		v Sri Lanka	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+F du Plessis (SA)	4	19	8	1	0	50.00	4		v Australia	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+UT Khawaja (AUS)	4	14	15	0	0	26.66	1		v South Africa	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+MR Marsh (AUS)	4	3	3	1	0	133.33	1		v South Africa	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+M Morkel (SA)	4	3	4	1	0	100.00	1		v Australia	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+PJ Cummins (AUS)	4	38	40	0	0	10.00	2		v South Africa	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+JA Burns (AUS)	4	14	8	0	0	50.00	2		v South Africa	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+MR Marsh (AUS)	4	17	10	1	0	40.00	2		v South Africa	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+Q de Kock (SA)	4	8	4	0	0	100.00	3		v Australia	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+Azhar Ali (PAK)	4	37	23	0	0	17.39	1		v Ireland	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+EC Joyce (IRE)	4	9	4	0	0	100.00	2		v Pakistan	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+MD Stoneman (ENG)	4	17	12	1	0	33.33	1		v Pakistan	Lord's	24 May 2018		/ci/engine/match/1119535.html
+JE Root (ENG)	4	46	24	0	0	16.66	1		v Pakistan	Lord's	24 May 2018		/ci/engine/match/1119535.html
+Imam-ul-Haq (PAK)	4	25	16	1	0	25.00	2		v England	Lord's	24 May 2018		/ci/engine/match/1119535.html
+MA Wood (ENG)	4	10	8	1	0	50.00	3		v Pakistan	Lord's	24 May 2018		/ci/engine/match/1119535.html
+Azhar Ali (PAK)	4	12	10	1	0	40.00	4		v England	Lord's	24 May 2018		/ci/engine/match/1119535.html
+Usman Salahuddin (PAK)	4	42	18	0	0	22.22	1		v England	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+Shadab Khan (PAK)	4	12	7	0	0	57.14	3		v England	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+BKG Mendis (SL)	4	24	11	1	0	36.36	2		v West Indies	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+KD Karthik (INDIA)	4	33	22	0	0	18.18	1		v Afghanistan	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+Rahmat Shah (AFG)	4	16	6	0	0	66.66	3		v India	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+CAK Rajitha (SL)	4	-	33	0	0	12.12	1		v West Indies	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+KOA Powell (WI)	4	-	10	1	0	40.00	1		v Sri Lanka	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+ML Udawatte (SL)	4	-	18	0	0	22.22	2		v West Indies	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+Tamim Iqbal (BDESH)	4	-	13	0	0	30.76	1		v West Indies	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+Nurul Hasan (BDESH)	4	-	10	0	0	40.00	1		v West Indies	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+SO Dowrich (WI)	4	-	17	1	0	23.52	2		v Bangladesh	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+D Elgar (SA)	4	17	12	0	0	33.33	4		v Sri Lanka	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+SD Hope (WI)	4	-	10	0	0	40.00	3		v Bangladesh	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+Mahmudullah (BDESH)	4	-	10	0	0	40.00	4		v West Indies	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+KL Rahul (INDIA)	4	5	2	1	0	200.00	2		v England	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+CR Woakes (ENG)	4	11	3	1	0	133.33	4		v India	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+JE Root (ENG)	4	26	14	0	0	28.57	1		v India	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+HH Pandya (INDIA)	4	10	5	1	0	80.00	2		v England	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+Mohammed Shami (INDIA)	4*	32	15	1	0	26.66	2		v South Africa	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+I Sharma (INDIA)	4*	15	10	1	0	40.00	4		v South Africa	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+RAS Lakmal (SL)	4*	-	14	0	0	28.57	1		v Bangladesh	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+Mohammad Abbas (PAK)	4*	19	13	1	0	30.76	1		v Ireland	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+Shadab Khan (PAK)	4*	15	11	0	0	36.36	4		v Ireland	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+L Ngidi (SA)	4*	6	4	1	0	100.00	4		v Sri Lanka	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+JM Bairstow (ENG)	5	9	7	1	0	71.42	1		v Australia	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+DJ Malan (ENG)	5	62	27	0	0	18.51	3		v Australia	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+AK Markram (SA)	5	10	11	1	0	45.45	1		v India	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+V Kohli (INDIA)	5	14	13	0	0	38.46	2		v South Africa	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+K Rabada (SA)	5	52	33	0	0	15.15	3		v India	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+V Kohli (INDIA)	5	22	20	1	0	25.00	4		v South Africa	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+AB de Villiers (SA)	5	33	19	0	0	26.31	2		v India	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+CT Bancroft (AUS)	5	25	20	1	0	25.00	1		v South Africa	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+L Ngidi (SA)	5	15	7	1	0	71.42	2		v Australia	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+PJ Cummins (AUS)	5	17	14	1	0	35.71	3		v South Africa	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+NM Lyon (AUS)	5	14	8	1	0	62.50	3		v South Africa	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+D Elgar (SA)	5	24	17	0	0	29.41	4		v Australia	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+AN Cook (ENG)	5	16	21	0	0	23.80	1		v New Zealand	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+CR Woakes (ENG)	5	8	9	0	0	55.55	1		v New Zealand	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+F du Plessis (SA)	5	19	14	1	0	35.71	1		v Australia	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+UT Khawaja (AUS)	5	25	22	0	0	22.72	2		v South Africa	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+SPD Smith (AUS)	5	19	18	1	0	27.77	2		v South Africa	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+MR Marsh (AUS)	5	34	22	1	0	22.72	2		v South Africa	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+T Bavuma (SA)	5	5	4	1	0	125.00	3		v Australia	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+KA Maharaj (SA)	5	18	14	1	0	35.71	3		v Australia	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+JR Hazlewood (AUS)	5	13	6	1	0	83.33	4		v South Africa	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+SCJ Broad (ENG)	5	13	6	1	0	83.33	1		v New Zealand	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+JA Raval (NZ)	5	21	15	0	0	33.33	2		v England	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+MT Renshaw (AUS)	5	55	42	0	0	11.90	4		v South Africa	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+TJ Murtagh (IRE)	5	18	7	1	0	71.42	2		v Pakistan	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+DM Bess (ENG)	5	19	14	1	0	35.71	1		v Pakistan	Lord's	24 May 2018		/ci/engine/match/1119535.html
+Mohammad Abbas (PAK)	5	38	26	1	0	19.23	2		v England	Lord's	24 May 2018		/ci/engine/match/1119535.html
+JM Anderson (ENG)	5	10	4	1	0	125.00	2		v Pakistan	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+Asad Shafiq (PAK)	5	14	5	1	0	100.00	3		v England	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+ARS Silva (SL)	5	16	11	1	0	45.45	2		v West Indies	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+HMRKB Herath (SL)	5	23	15	0	0	33.33	2		v West Indies	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+RL Chase (WI)	5	-	13	0	0	38.46	3		v Sri Lanka	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+ST Gabriel (WI)	5	-	6	0	0	83.33	2		v Bangladesh	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+N Dickwella (SL)	5	14	9	1	0	55.55	1		v South Africa	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+I Sharma (INDIA)	5	45	17	0	0	29.41	2		v England	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+AU Rashid (ENG)	5	8	5	1	0	100.00	2		v India	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+CA Pujara (INDIA)	5	19	14	0	0	35.71	4		v England	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+Mustafizur Rahman (BDESH)	5*	-	3	1	0	166.66	4		v Sri Lanka	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+TJ Murtagh (IRE)	5*	9	3	1	0	166.66	3		v Pakistan	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+M Morkel (SA)	6	17	9	1	0	66.66	1		v India	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+KA Maharaj (SA)	6	14	8	1	0	75.00	3		v India	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+HH Pandya (INDIA)	6	26	12	0	0	50.00	4		v South Africa	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+AB de Villiers (SA)	6	16	13	1	0	46.15	4		v India	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+Mahmudullah (BDESH)	6	-	8	1	0	75.00	4		v Sri Lanka	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+Taijul Islam (BDESH)	6	-	8	1	0	75.00	4		v Sri Lanka	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+TB de Bruyn (SA)	6	28	15	1	0	40.00	2		v Australia	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+UT Khawaja (AUS)	6	21	12	1	0	50.00	3		v South Africa	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+MR Marsh (AUS)	6	23	12	1	0	50.00	3		v South Africa	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+VD Philander (SA)	6	16	16	0	0	37.50	4		v Australia	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+M Morkel (SA)	6	10	7	0	1	85.71	3		v Australia	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+AB de Villiers (SA)	6	14	5	1	0	120.00	3		v Australia	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+WB Rankin (IRE)	6	21	13	1	0	46.15	3		v Pakistan	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+DJ Malan (ENG)	6	10	3	1	0	200.00	1		v Pakistan	Lord's	24 May 2018		/ci/engine/match/1119535.html
+Afsar Zazai (AFG)	6	21	10	1	0	60.00	2		v India	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+ARS Silva (SL)	6	-	23	1	0	26.08	1		v West Indies	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+ST Gabriel (WI)	6	-	9	0	1	66.66	3		v Sri Lanka	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+N Dickwella (SL)	6	-	15	1	0	40.00	4		v West Indies	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+PADLR Sandakan (SL)	6	18	9	1	0	66.66	3		v South Africa	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+SO Dowrich (WI)	6	-	25	1	0	24.00	1		v Bangladesh	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+HM Amla (SA)	6	38	18	1	0	33.33	4		v Sri Lanka	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+DW Steyn (SA)	6	9	6	0	1	100.00	4		v Sri Lanka	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+BA Stokes (ENG)	6	21	13	0	0	46.15	3		v India	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+M Vijay (INDIA)	6	26	17	0	0	35.29	4		v England	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+JM Bairstow (ENG)	6	33	16	0	0	37.50	1		v India	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+AU Rashid (ENG)	6	23	14	0	0	42.85	1		v India	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+JJ Bumrah (INDIA)	6	70	24	0	0	25.00	2		v England	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+Wafadar Momand (AFG)	6*	5	2	1	0	300.00	2		v India	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+Rubel Hossain (BDESH)	6*	-	10	1	0	60.00	1		v West Indies	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+BKG Mendis (SL)	7	-	21	0	0	33.33	3		v Bangladesh	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+MDK Perera (SL)	7	-	6	1	0	116.66	3		v Bangladesh	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+Mehidy Hasan Miraz (BDESH)	7	-	6	0	1	116.66	4		v Sri Lanka	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+D Elgar (SA)	7	32	20	1	0	35.00	2		v Australia	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+MA Starc (AUS)	7	25	16	1	0	43.75	3		v South Africa	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+SPD Smith (AUS)	7	29	21	0	1	33.33	4		v South Africa	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+MA Starc (AUS)	7	18	14	1	0	50.00	4		v South Africa	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+N Wagner (NZ)	7	107	103	1	0	6.79	4		v England	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+UT Khawaja (AUS)	7	20	12	1	0	58.33	4		v South Africa	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+SE Marsh (AUS)	7	21	20	1	0	35.00	4		v South Africa	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+TD Paine (AUS)	7	40	28	0	0	25.00	4		v South Africa	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+Imam-ul-Haq (PAK)	7	39	26	1	0	26.92	1		v Ireland	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+Haris Sohail (PAK)	7	13	8	1	0	87.50	4		v Ireland	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+MA Wood (ENG)	7	22	9	1	0	77.77	1		v Pakistan	Lord's	24 May 2018		/ci/engine/match/1119535.html
+DS Smith (WI)	7	60	21	1	0	33.33	1		v Sri Lanka	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+Rashid Khan (AFG)	7	16	14	1	0	50.00	2		v India	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+RAS Lakmal (SL)	7	-	22	0	0	31.81	3		v West Indies	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+KOA Powell (WI)	7	-	14	1	0	50.00	3		v Sri Lanka	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+Kamrul Islam Rabbi (BDESH)	7	-	28	1	0	25.00	3		v West Indies	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+AK Markram (SA)	7	30	20	0	0	35.00	2		v Sri Lanka	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+F du Plessis (SA)	7	19	13	1	0	53.84	4		v Sri Lanka	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+I Sharma (INDIA)	7*	25	16	1	0	43.75	3		v South Africa	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+Mohammad Amir (PAK)	7*	43	20	1	0	35.00	3		v England	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+N Dickwella (SL)	7*	11	7	1	0	100.00	3		v South Africa	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+Q de Kock (SA)	8	12	9	2	0	88.88	3		v India	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+WP Saha (INDIA)	8	36	19	2	0	42.10	4		v South Africa	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+M Vijay (INDIA)	8	41	32	1	0	25.00	1		v South Africa	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+Mohammed Shami (INDIA)	8	21	16	1	0	50.00	1		v South Africa	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+F du Plessis (SA)	8	27	19	1	0	42.10	2		v India	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+Q de Kock (SA)	8	30	22	1	0	36.36	2		v India	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+Mosaddek Hossain (BDESH)	8	-	15	1	0	53.33	1		v Sri Lanka	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+Mustafizur Rahman (BDESH)	8	-	21	0	1	38.09	1		v Sri Lanka	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+VD Philander (SA)	8	20	19	1	0	42.10	2		v Australia	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+HM Amla (SA)	8	18	19	1	0	42.10	4		v Australia	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+MA Starc (AUS)	8	18	11	1	0	72.72	1		v South Africa	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+VD Philander (SA)	8	27	23	1	0	34.78	1		v Australia	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+MT Renshaw (AUS)	8	47	32	1	0	25.00	2		v South Africa	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+NM Lyon (AUS)	8	13	18	2	0	44.44	2		v South Africa	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+Sarfraz Ahmed (PAK)	8	19	12	2	0	66.66	4		v Ireland	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+Haris Sohail (PAK)	8	13	12	1	0	66.66	3		v England	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+Sarfraz Ahmed (PAK)	8	21	13	1	0	61.53	3		v England	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+CBRLS Kumara (SL)	8	12	9	2	0	88.88	2		v West Indies	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+I Sharma (INDIA)	8	31	13	1	0	61.53	1		v Afghanistan	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+SO Dowrich (WI)	8	-	12	1	0	66.66	4		v Sri Lanka	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+DM de Silva (SL)	8	-	10	1	0	80.00	2		v West Indies	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+Mushfiqur Rahim (BDESH)	8	-	11	2	0	72.72	3		v West Indies	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+D Elgar (SA)	8	30	29	0	0	27.58	2		v Sri Lanka	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+DW Steyn (SA)	8	24	17	1	0	47.05	2		v Sri Lanka	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+KC Brathwaite (WI)	8	-	26	0	0	30.76	3		v Bangladesh	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+Q de Kock (SA)	8	10	12	1	0	66.66	4		v Sri Lanka	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+DJ Malan (ENG)	8	23	14	1	0	57.14	1		v India	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+KK Jennings (ENG)	8	30	18	1	0	44.44	3		v India	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+KL Rahul (INDIA)	8	29	14	2	0	57.14	1		v England	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+CR Woakes (ENG)	8	6	5	2	0	160.00	2		v India	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+Mohammed Shami (INDIA)	8	11	11	1	0	72.72	4		v England	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+Mosaddek Hossain (BDESH)	8*	-	53	1	0	15.09	3		v Sri Lanka	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+ML Cummins (WI)	8*	-	20	1	0	40.00	2		v Sri Lanka	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+M Vijay (INDIA)	9	32	25	1	0	36.00	4		v South Africa	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+AM Rahane (INDIA)	9	44	27	1	0	33.33	1		v South Africa	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+AL Phehlukwayo (SA)	9	33	17	2	0	52.94	2		v India	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+RAS Lakmal (SL)	9	-	21	0	0	42.85	2		v Bangladesh	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+D Elgar (SA)	9	30	20	2	0	45.00	4		v Australia	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+F du Plessis (SA)	9	40	16	1	0	56.25	2		v Australia	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+Q de Kock (SA)	9	31	20	0	0	45.00	2		v Australia	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+MA Wood (ENG)	9	16	14	2	0	64.28	3		v New Zealand	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+NM Lyon (AUS)	9	37	23	1	0	39.13	4		v South Africa	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+Sarfraz Ahmed (PAK)	9	31	24	1	0	37.50	2		v England	Lord's	24 May 2018		/ci/engine/match/1119535.html
+MD Stoneman (ENG)	9	77	45	1	0	20.00	3		v Pakistan	Lord's	24 May 2018		/ci/engine/match/1119535.html
+BA Stokes (ENG)	9	15	10	2	0	90.00	3		v Pakistan	Lord's	24 May 2018		/ci/engine/match/1119535.html
+Hasan Ali (PAK)	9	17	11	0	1	81.81	3		v England	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+DM de Silva (SL)	9	19	12	0	1	75.00	3		v South Africa	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+N Dickwella (SL)	9	20	14	1	0	64.28	3		v South Africa	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+KA Maharaj (SA)	9	23	9	2	0	100.00	4		v Sri Lanka	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+MM Ali (ENG)	9	19	15	2	0	60.00	3		v India	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+M Morkel (SA)	9*	22	8	2	0	112.50	2		v India	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+JR Hazlewood (AUS)	9*	16	13	1	0	69.23	3		v South Africa	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+N Wagner (NZ)	9*	6	7	0	1	128.57	2		v England	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+TD Paine (AUS)	9*	58	27	2	0	33.33	4		v South Africa	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+JR Hazlewood (AUS)	9*	28	22	2	0	40.90	4		v South Africa	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+AN Cook (ENG)	10	29	20	0	0	50.00	3		v Australia	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+RG Sharma (INDIA)	10	53	30	0	0	33.33	4		v South Africa	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+KL Rahul (INDIA)	10	40	21	2	0	47.61	2		v South Africa	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+RG Sharma (INDIA)	10	34	27	2	0	37.03	2		v South Africa	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+VD Philander (SA)	10	22	18	1	0	55.55	4		v India	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+N Dickwella (SL)	10	-	18	0	0	55.55	3		v Bangladesh	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+JR Hazlewood (AUS)	10	26	14	2	0	71.42	2		v South Africa	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+AM Rahane (INDIA)	10	63	45	2	0	22.22	1		v Afghanistan	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+RAS Lakmal (SL)	10	-	9	2	0	111.11	1		v West Indies	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+RAS Lakmal (SL)	10	52	40	1	0	25.00	1		v South Africa	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+Q de Kock (SA)	10	14	9	2	0	111.11	4		v Sri Lanka	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+Mehidy Hasan Miraz (BDESH)	10	-	14	1	0	71.42	4		v West Indies	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+AD Mathews (SL)	10	34	24	2	0	41.66	1		v South Africa	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+R Ashwin (INDIA)	10	21	15	2	0	66.66	2		v England	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+KL Rahul (INDIA)	10	29	16	2	0	62.50	3		v England	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+OJ Pope (ENG)	10	34	22	1	0	45.45	2		v India	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+BA Stokes (ENG)	10	27	13	2	0	76.92	2		v India	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+M Morkel (SA)	10*	18	11	2	0	90.90	3		v India	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+JR Hazlewood (AUS)	10*	39	10	2	0	100.00	1		v South Africa	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+Mohammed Shami (INDIA)	10*	9	3	2	0	333.33	1		v England	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+MA Starc (AUS)	11	15	10	0	1	110.00	2		v England	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+RG Sharma (INDIA)	11	95	59	1	0	18.64	2		v South Africa	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+K Rabada (SA)	11	49	34	0	0	32.35	1		v India	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+AK Markram (SA)	11	33	21	1	0	52.38	2		v Australia	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+SPD Smith (AUS)	11	20	18	1	1	61.11	3		v South Africa	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+MD Stoneman (ENG)	11	41	20	2	0	55.00	1		v New Zealand	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+PR Stirling (IRE)	11	57	33	2	0	33.33	3		v Pakistan	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+Azhar Ali (PAK)	11	21	14	2	0	78.57	3		v England	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+AD Mathews (SL)	11	34	15	2	0	73.33	2		v West Indies	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+Hashmatullah Shahidi (AFG)	11	42	24	2	0	45.83	2		v India	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+Asghar Afghan (AFG)	11	15	14	2	0	78.57	2		v India	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+SD Hope (WI)	11	-	49	2	0	22.44	1		v Sri Lanka	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+ARS Silva (SL)	11	-	53	1	0	20.75	2		v West Indies	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+DM de Silva (SL)	11	46	36	1	0	30.55	1		v South Africa	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+T Bavuma (SA)	11	40	20	1	0	55.00	2		v Sri Lanka	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+SCJ Broad (ENG)	11	32	28	0	0	39.28	3		v India	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+I Sharma (INDIA)	11	19	15	2	0	73.33	4		v England	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+HH Pandya (INDIA)	11	10	10	2	0	110.00	1		v England	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+KK Jennings (ENG)	11	37	22	0	0	50.00	2		v India	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+JM Anderson (ENG)	11	38	24	1	0	45.83	4		v India	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+AM Rahane (INDIA)	11	29	14	1	0	78.57	2		v England	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+AU Rashid (ENG)	11	33	22	2	0	50.00	3		v India	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+KAJ Roach (WI)	11*	31	31	0	0	35.48	3		v Sri Lanka	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+KAJ Roach (WI)	11*	-	17	1	0	64.70	1		v Sri Lanka	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+MDK Perera (SL)	11*	-	48	1	0	22.91	2		v West Indies	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+R Ashwin (INDIA)	12	53	31	2	0	38.70	2		v South Africa	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+Q de Kock (SA)	12	8	5	3	0	240.00	3		v India	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+Liton Das (BDESH)	12	-	20	0	0	60.00	4		v Sri Lanka	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+NM Lyon (AUS)	12	39	24	2	0	50.00	1		v South Africa	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+BA Stokes (ENG)	12	29	21	2	0	57.14	3		v New Zealand	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+SCJ Broad (ENG)	12	10	8	2	0	150.00	3		v New Zealand	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+VD Philander (SA)	12	43	35	1	0	34.28	1		v Australia	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+GC Wilson (IRE)	12	47	34	1	0	35.29	3		v Pakistan	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+DJ Malan (ENG)	12	83	50	1	0	24.00	3		v Pakistan	Lord's	24 May 2018		/ci/engine/match/1119535.html
+RL Chase (WI)	12	61	41	1	0	29.26	3		v Sri Lanka	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+MDKJ Perera (SL)	12	19	10	2	0	120.00	4		v West Indies	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+Rashid Khan (AFG)	12	12	9	1	0	133.33	3		v India	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+DM de Silva (SL)	12	-	14	2	0	85.71	1		v West Indies	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+Shakib Al Hasan (BDESH)	12	-	18	2	0	66.66	3		v West Indies	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+ST Gabriel (WI)	12	-	19	3	0	63.15	1		v Bangladesh	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+Liton Das (BDESH)	12	-	18	2	0	66.66	2		v West Indies	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+AN Cook (ENG)	12	49	39	1	0	30.76	3		v India	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+SO Dowrich (WI)	12*	-	31	1	0	38.70	3		v Bangladesh	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+MM Ali (ENG)	13	58	43	1	0	30.23	3		v Australia	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+M Vijay (INDIA)	13	43	32	2	0	40.62	4		v South Africa	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+MD Gunathilaka (SL)	13	-	26	2	0	50.00	1		v Bangladesh	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+DA Warner (AUS)	13	43	21	3	0	61.90	3		v South Africa	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+LRPL Taylor (NZ)	13	34	23	2	0	56.52	4		v England	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+HM Nicholls (NZ)	13	25	24	1	0	54.16	4		v England	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+Mohammad Amir (PAK)	13	51	41	1	0	31.70	1		v Ireland	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+Mohammad Amir (PAK)	13	39	32	2	0	40.62	1		v England	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+SO Dowrich (WI)	13	49	57	1	0	22.80	3		v Sri Lanka	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+Mohammad Shahzad (AFG)	13	21	17	3	0	76.47	3		v India	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+KAJ Roach (WI)	13	-	21	2	0	61.90	2		v Sri Lanka	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+RL Chase (WI)	13	-	37	1	0	35.13	4		v Sri Lanka	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+Tamim Iqbal (BDESH)	13	-	15	2	0	86.66	3		v West Indies	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+ARS Silva (SL)	13	37	24	2	0	54.16	3		v South Africa	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+KMA Paul (WI)	13	-	31	1	1	41.93	3		v Bangladesh	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+AN Cook (ENG)	13	38	28	2	0	46.42	1		v India	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+AU Rashid (ENG)	13	35	18	2	0	72.22	1		v India	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+S Dhawan (INDIA)	13	37	24	1	0	54.16	4		v England	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+KL Rahul (INDIA)	13	46	24	2	0	54.16	4		v England	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+R Ashwin (INDIA)	13	14	15	3	0	86.66	4		v England	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+AM Rahane (INDIA)	13	55	33	2	0	39.39	3		v England	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+KK Jennings (ENG)	13	46	31	2	0	41.93	4		v India	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+JE Root (ENG)	13	71	40	2	0	32.50	4		v India	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+B Kumar (INDIA)	13*	62	41	1	0	31.70	4		v South Africa	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+Taijul Islam (BDESH)	13*	-	22	2	0	59.09	4		v West Indies	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+UT Khawaja (AUS)	14	30	19	3	0	73.68	1		v South Africa	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+TD Paine (AUS)	14	37	29	1	0	48.27	3		v South Africa	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+D Elgar (SA)	14	43	23	2	0	60.86	3		v Australia	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+AN Cook (ENG)	14	32	26	2	0	53.84	3		v New Zealand	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+Babar Azam (PAK)	14	34	25	3	0	56.00	1		v Ireland	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+TE Kane (IRE)	14	128	96	1	0	14.58	3		v Pakistan	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+JC Buttler (ENG)	14	31	15	2	0	93.33	1		v Pakistan	Lord's	24 May 2018		/ci/engine/match/1119535.html
+Sarfraz Ahmed (PAK)	14	19	13	2	0	107.69	1		v England	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+ARS Silva (SL)	14	42	23	0	0	60.86	4		v West Indies	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+Mohammad Shahzad (AFG)	14	18	18	3	0	77.77	2		v India	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+Rahmat Shah (AFG)	14	22	15	2	0	93.33	2		v India	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+RL Chase (WI)	14	-	30	2	0	46.66	1		v Sri Lanka	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+ML Cummins (WI)	14	-	37	1	0	37.83	3		v Sri Lanka	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+AK Markram (SA)	14	26	24	3	0	58.33	4		v Sri Lanka	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+JE Root (ENG)	14	48	35	1	0	40.00	3		v India	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+CA Pujara (INDIA)	14	40	31	2	0	45.16	1		v England	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+R Ashwin (INDIA)	14	35	17	3	0	82.35	1		v England	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+I Sharma (INDIA)	14	40	27	2	0	51.85	2		v England	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+MJ Leach (ENG)	14*	28	20	1	0	70.00	3		v New Zealand	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+KA Maharaj (SA)	15	27	21	2	0	71.42	3		v India	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+HH Pandya (INDIA)	15	66	45	2	0	33.33	2		v South Africa	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+F du Plessis (SA)	15	35	22	1	1	68.18	2		v Australia	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+RAS Lakmal (SL)	15	30	25	1	1	60.00	2		v West Indies	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+Mujeeb Ur Rahman (AFG)	15	12	9	2	1	166.66	2		v India	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+JO Holder (WI)	15	-	35	1	0	42.85	2		v Sri Lanka	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+JO Holder (WI)	15	-	30	3	0	50.00	3		v Sri Lanka	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+Mahmudullah (BDESH)	15	-	30	2	0	50.00	3		v West Indies	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+HM Amla (SA)	15	38	36	2	0	41.66	2		v Sri Lanka	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+Mominul Haque (BDESH)	15	-	43	3	0	34.88	4		v West Indies	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+AM Rahane (INDIA)	15	53	34	1	0	44.11	2		v England	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+JM Bairstow (ENG)	15	66	41	3	0	36.58	2		v India	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+TB de Bruyn (SA)	15*	15	14	2	0	107.14	4		v Australia	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+JO Holder (WI)	15*	-	20	2	0	75.00	4		v Sri Lanka	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+S Dhawan (INDIA)	16	26	13	3	0	123.07	2		v South Africa	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+S Dhawan (INDIA)	16	37	20	2	0	80.00	4		v South Africa	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+PA Patel (INDIA)	16	20	15	3	0	106.66	3		v South Africa	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+KL Rahul (INDIA)	16	63	44	2	0	36.36	3		v South Africa	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+MR Marsh (AUS)	16	39	28	3	0	57.14	4		v South Africa	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+MJ Leach (ENG)	16	64	54	2	0	29.62	1		v New Zealand	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+TA Boult (NZ)	16	42	22	1	0	72.72	2		v England	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+SE Marsh (AUS)	16	104	74	1	0	21.62	2		v South Africa	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+HM Amla (SA)	16	51	48	1	0	33.33	3		v Australia	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+KC Brathwaite (WI)	16	79	56	1	0	28.57	3		v Sri Lanka	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+N Dickwella (SL)	16	-	55	1	0	29.09	1		v West Indies	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+SO Dowrich (WI)	16	-	31	2	0	51.61	3		v Sri Lanka	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+Rubel Hossain (BDESH)	16	-	33	1	0	48.48	3		v West Indies	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+DS Smith (WI)	16	-	36	3	0	44.44	3		v Bangladesh	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+AU Rashid (ENG)	16	60	40	1	0	40.00	3		v India	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+JE Root (ENG)	16	68	29	2	0	55.17	2		v India	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+OJ Pope (ENG)	16	63	39	3	0	41.02	4		v India	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+DW Steyn (SA)	16*	48	31	1	0	51.61	1		v India	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+D Bishoo (WI)	16*	61	45	2	0	35.55	3		v Sri Lanka	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+Mahmudullah (BDESH)	17	-	46	2	0	36.95	2		v Sri Lanka	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+MD Gunathilaka (SL)	17	-	27	1	0	62.96	3		v Bangladesh	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+Imrul Kayes (BDESH)	17	-	22	1	1	77.27	4		v Sri Lanka	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+NM Lyon (AUS)	17	27	20	4	0	85.00	1		v South Africa	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+JR Hazlewood (AUS)	17	32	17	2	1	100.00	3		v South Africa	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+JA Raval (NZ)	17	90	60	2	0	28.33	4		v England	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+PR Stirling (IRE)	17	35	20	2	0	85.00	2		v Pakistan	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+WB Rankin (IRE)	17	54	50	2	0	34.00	2		v Pakistan	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+CR Woakes (ENG)	17	41	31	3	0	54.83	2		v Pakistan	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+DM de Silva (SL)	17	-	29	4	0	58.62	4		v West Indies	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+T Bavuma (SA)	17	40	33	2	0	51.51	2		v Sri Lanka	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+MD Gunathilaka (SL)	17	68	65	1	0	26.15	3		v South Africa	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+MDK Perera (SL)	17	38	24	2	0	70.83	1		v South Africa	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+CA Pujara (INDIA)	17	106	87	1	0	19.54	3		v England	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+V Kohli (INDIA)	17	57	29	2	0	58.62	3		v England	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+AN Cook (ENG)	17	57	39	2	0	43.58	4		v India	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+AN Cook (ENG)	17	92	55	3	0	30.90	1		v India	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+SCJ Broad (ENG)	17	51	31	1	0	54.83	1		v India	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+S Dhawan (INDIA)	17	42	29	3	0	58.62	4		v England	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+JM Vince (ENG)	18	74	51	1	0	35.29	3		v Australia	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+KA Maharaj (SA)	18	70	54	3	0	33.33	1		v India	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+TD Astle (NZ)	18	40	35	3	0	51.42	2		v England	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+JM Vince (ENG)	18	61	41	3	0	43.90	1		v New Zealand	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+NJ O'Brien (IRE)	18	55	45	2	0	40.00	3		v Pakistan	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+R Ashwin (INDIA)	18	45	39	1	0	46.15	1		v Afghanistan	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+N Dickwella (SL)	18	53	31	0	0	58.06	1		v South Africa	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+VD Philander (SA)	18	96	86	1	0	20.93	2		v Sri Lanka	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+Taijul Islam (BDESH)	18	-	18	4	0	100.00	2		v West Indies	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+KOA Powell (WI)	18	-	27	1	1	66.66	3		v Bangladesh	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+SO Hetmyer (WI)	18	-	31	2	0	58.06	3		v Bangladesh	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+BKG Mendis (SL)	18	36	27	3	0	66.66	3		v South Africa	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+K Rabada (SA)	18	33	37	2	1	48.64	4		v Sri Lanka	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+AM Rahane (INDIA)	18	99	44	2	0	40.90	1		v England	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+HH Pandya (INDIA)	18	95	58	4	0	31.03	1		v England	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+RR Pant (INDIA)	18	21	12	2	1	150.00	4		v England	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+Imam-ul-Haq (PAK)	18*	51	34	2	0	52.94	4		v England	Lord's	24 May 2018		/ci/engine/match/1119535.html
+PA Patel (INDIA)	19	39	32	3	0	59.37	2		v South Africa	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+CA Pujara (INDIA)	19	92	47	2	0	40.42	4		v South Africa	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+PA Patel (INDIA)	19	69	49	2	0	38.77	4		v South Africa	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+Imrul Kayes (BDESH)	19	-	48	1	1	39.58	3		v Sri Lanka	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+DM de Silva (SL)	19	-	30	2	1	63.33	1		v Bangladesh	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+Imrul Kayes (BDESH)	19	-	55	3	0	34.54	2		v Sri Lanka	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+BJ Watling (NZ)	19	81	66	3	0	28.78	4		v England	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+D Elgar (SA)	19	79	47	2	0	40.42	1		v Australia	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+N Dickwella (SL)	19	41	32	4	0	59.37	4		v West Indies	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+SD Hope (WI)	19	-	41	2	0	46.34	2		v Sri Lanka	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+ML Udawatte (SL)	19	-	46	2	0	41.30	3		v West Indies	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+D Bishoo (WI)	19	-	79	2	0	24.05	2		v Bangladesh	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+AK Markram (SA)	19	47	46	0	0	41.30	4		v Sri Lanka	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+HM Amla (SA)	19	60	58	0	0	32.75	2		v Sri Lanka	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+JE Root (ENG)	19	82	53	2	0	35.84	2		v India	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+KL Rahul (INDIA)	19	35	24	2	0	79.16	2		v England	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+AB de Villiers (SA)	20	60	48	2	0	41.66	1		v India	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+Mehidy Hasan Miraz (BDESH)	20	-	19	1	1	105.26	1		v Sri Lanka	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+A Dananjaya (SL)	20	-	26	2	0	76.92	1		v Bangladesh	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+Q de Kock (SA)	20	54	33	4	0	60.60	2		v Australia	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+LRPL Taylor (NZ)	20	46	35	3	0	57.14	2		v England	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+F du Plessis (SA)	20	58	44	3	0	45.45	3		v Australia	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+K Rabada (SA)	20	43	46	3	0	43.47	3		v Australia	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+Sarfraz Ahmed (PAK)	20	61	40	2	0	50.00	1		v Ireland	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+SM Curran (ENG)	20	52	38	4	0	52.63	2		v Pakistan	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+MDK Perera (SL)	20	75	44	1	1	45.45	2		v West Indies	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+DS Smith (WI)	20	50	30	3	0	66.66	3		v Sri Lanka	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+RA Jadeja (INDIA)	20	58	31	1	1	64.51	1		v Afghanistan	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+MDKJ Perera (SL)	20	-	23	3	0	86.95	3		v West Indies	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+RL Chase (WI)	20	-	46	2	0	43.47	1		v Bangladesh	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+M Vijay (INDIA)	20	70	45	4	0	44.44	2		v England	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+DJ Malan (ENG)	20	81	64	2	0	31.25	3		v India	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+KD Karthik (INDIA)	20	56	50	2	0	40.00	4		v England	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+KK Jennings (ENG)	20	57	32	3	0	62.50	2		v India	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+SCJ Broad (ENG)	20	51	29	3	0	68.96	4		v India	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+RAS Lakmal (SL)	21	-	41	4	0	51.21	3		v Bangladesh	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+AK Markram (SA)	21	37	28	3	0	75.00	4		v Australia	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+JM Bairstow (ENG)	21	60	48	4	0	43.75	2		v Pakistan	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+MD Gunathilaka (SL)	21	-	30	4	0	70.00	4		v West Indies	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+BKG Mendis (SL)	21	51	34	4	0	61.76	1		v South Africa	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+BA Stokes (ENG)	21	52	41	2	0	51.21	1		v India	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+AN Cook (ENG)	21	42	25	4	0	84.00	2		v India	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+JC Buttler (ENG)	21	41	24	3	0	87.50	1		v India	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+K Rabada (SA)	22	62	42	3	0	52.38	1		v Australia	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+KS Williamson (NZ)	22	83	48	1	0	45.83	2		v England	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+KC Brathwaite (WI)	22	-	79	2	0	27.84	2		v Sri Lanka	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+BKG Mendis (SL)	22	-	59	4	0	37.28	2		v West Indies	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+ARS Silva (SL)	22	68	46	3	0	47.82	1		v South Africa	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+HH Pandya (INDIA)	22	77	52	3	0	42.30	2		v England	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+VD Philander (SA)	22*	68	38	0	2	57.89	4		v Sri Lanka	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+VD Philander (SA)	23	64	35	4	0	65.71	1		v India	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+DJ Malan (ENG)	23	96	62	3	0	37.09	3		v New Zealand	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+A Dananjaya (SL)	23	-	30	2	0	76.66	3		v West Indies	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+V Kohli (INDIA)	23	73	57	2	0	40.35	1		v England	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+KL Rahul (INDIA)	23	96	53	4	0	43.39	1		v England	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+BA Stokes (ENG)	23	102	79	3	0	29.11	1		v India	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+S Dhawan (INDIA)	23	85	53	3	0	43.39	2		v England	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+TK Curran (ENG)	23*	64	40	5	0	57.50	3		v Australia	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+KAJ Roach (WI)	23*	-	37	3	0	62.16	3		v Sri Lanka	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+MDK Perera (SL)	23*	-	68	3	0	33.82	4		v West Indies	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+MD Stoneman (ENG)	24	45	24	4	0	100.00	1		v Australia	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+Sunzamul Islam (BDESH)	24	-	56	1	0	42.85	1		v Sri Lanka	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+HMRKB Herath (SL)	24	-	61	1	0	39.34	2		v Bangladesh	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+SE Marsh (AUS)	24	76	52	4	0	46.15	1		v South Africa	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+CT Bancroft (AUS)	24	97	70	2	0	34.28	3		v South Africa	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+PSP Handscomb (AUS)	24	77	44	4	0	54.54	4		v South Africa	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+Hasan Ali (PAK)	24	25	16	5	0	150.00	1		v England	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+Mohammad Nabi (AFG)	24	55	44	4	0	54.54	2		v India	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+BKG Mendis (SL)	24	47	36	3	0	66.66	1		v South Africa	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+Mushfiqur Rahim (BDESH)	24	-	57	5	0	42.10	2		v West Indies	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+SM Curran (ENG)	24	98	71	3	0	33.80	1		v India	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+JC Buttler (ENG)	24	35	22	4	0	109.09	2		v India	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+RR Pant (INDIA)	24	72	51	2	1	47.05	1		v England	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+PJ Cummins (AUS)	24*	24	16	4	0	150.00	2		v England	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+N Wagner (NZ)	24*	58	27	2	1	88.88	2		v England	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+Mohammad Amir (PAK)	24*	67	46	4	0	52.17	2		v England	Lord's	24 May 2018		/ci/engine/match/1119535.html
+JM Vince (ENG)	25	82	54	4	0	46.29	1		v Australia	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+B Kumar (INDIA)	25	112	86	4	0	29.06	2		v South Africa	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+D Elgar (SA)	25	72	54	4	0	46.29	3		v India	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+M Vijay (INDIA)	25	194	127	1	0	19.68	3		v South Africa	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+Liton Das (BDESH)	25	-	54	3	0	46.29	2		v Sri Lanka	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+Mushfiqur Rahim (BDESH)	25	-	51	4	0	49.01	4		v Sri Lanka	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+TD Paine (AUS)	25	103	72	3	0	34.72	1		v South Africa	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+SPD Smith (AUS)	25	93	58	3	0	43.10	1		v South Africa	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+TG Southee (NZ)	25	65	42	2	0	59.52	2		v England	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+BA Stokes (ENG)	25	88	63	4	0	39.68	1		v New Zealand	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+Asghar Afghan (AFG)	25	66	58	4	1	43.10	3		v India	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+BKG Mendis (SL)	25	-	44	4	0	56.81	4		v West Indies	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+Liton Das (BDESH)	25	-	53	2	0	47.16	1		v West Indies	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+PADLR Sandakan (SL)	25	76	55	3	0	45.45	1		v South Africa	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+R Ashwin (INDIA)	25	55	36	2	1	69.44	4		v England	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+K Rabada (SA)	26	84	66	0	1	39.39	1		v India	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+CA Pujara (INDIA)	26	154	92	5	0	28.26	2		v South Africa	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+VD Philander (SA)	26	122	85	2	0	30.58	3		v India	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+PJ Cummins (AUS)	26	95	57	1	2	45.61	3		v South Africa	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+TWM Latham (NZ)	26	152	112	3	0	23.21	2		v England	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+JM Bairstow (ENG)	26	88	72	4	0	36.11	3		v New Zealand	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+SE Marsh (AUS)	26	88	63	3	0	41.26	2		v South Africa	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+CT Bancroft (AUS)	26	88	64	3	0	40.62	4		v South Africa	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+MD Gunathilaka (SL)	26	49	31	4	0	83.87	1		v South Africa	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+S Dhawan (INDIA)	26	83	46	3	0	56.52	2		v England	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+HH Pandya (INDIA)	26	86	43	5	0	60.46	3		v England	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+UT Yadav (INDIA)	26*	25	21	2	2	123.80	1		v Afghanistan	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+Mohammed Shami (INDIA)	27	32	28	1	2	96.42	3		v South Africa	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+HM Amla (SA)	27	54	42	3	0	64.28	4		v Australia	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+HM Amla (SA)	27	112	81	3	0	33.33	1		v Australia	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+JM Bairstow (ENG)	27	97	59	4	0	45.76	1		v Pakistan	Lord's	24 May 2018		/ci/engine/match/1119535.html
+Asad Shafiq (PAK)	27	72	48	5	0	56.25	1		v England	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+LD Chandimal (SL)	27	115	83	2	0	32.53	4		v West Indies	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+KOA Powell (WI)	27	-	45	2	1	60.00	2		v Sri Lanka	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+V Kohli (INDIA)	28	62	40	4	0	70.00	4		v South Africa	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+Mohammed Shami (INDIA)	28	53	24	5	0	116.66	4		v South Africa	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+DM de Silva (SL)	28	-	24	5	0	116.66	3		v Bangladesh	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+DA Warner (AUS)	28	59	35	4	0	80.00	3		v South Africa	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+AB de Villiers (SA)	28	44	26	4	1	107.69	4		v Australia	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+MM Ali (ENG)	28	42	43	6	0	65.11	3		v New Zealand	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+Haris Sohail (PAK)	28	86	57	4	0	49.12	1		v England	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+DJ Malan (ENG)	28	92	71	5	0	39.43	2		v Pakistan	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+JM Bairstow (ENG)	28	68	40	5	0	70.00	3		v India	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+OJ Pope (ENG)	28	60	38	3	0	73.68	2		v India	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+Mahmudullah (BDESH)	28*	-	65	3	0	43.07	3		v Sri Lanka	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+TD Paine (AUS)	28*	92	50	2	0	56.00	3		v South Africa	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+MDKJ Perera (SL)	28*	-	43	2	0	65.11	4		v West Indies	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+K Rabada (SA)	29	58	40	6	0	72.50	2		v Australia	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+C de Grandhomme (NZ)	29	49	39	5	1	74.35	2		v England	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+KK Jennings (ENG)	29	74	57	5	0	50.87	2		v Pakistan	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+MD Gunathilaka (SL)	29	-	73	3	1	39.72	2		v West Indies	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+KOA Powell (WI)	29	-	49	4	0	59.18	1		v Bangladesh	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+SD Hope (WI)	29	-	79	2	0	36.70	1		v Bangladesh	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+R Ashwin (INDIA)	29	49	38	4	0	76.31	1		v England	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+AN Cook (ENG)	29	55	42	5	0	69.04	2		v India	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+AM Rahane (INDIA)	29	161	94	3	0	30.85	3		v England	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+MM Ali (ENG)	30	91	58	2	0	51.72	1		v Australia	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+B Kumar (INDIA)	30	72	49	4	0	61.22	1		v South Africa	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+K Rabada (SA)	30	130	84	6	0	35.71	2		v India	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+LD Chandimal (SL)	30	-	54	3	0	55.55	3		v Bangladesh	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+KA Maharaj (SA)	30	38	24	3	2	125.00	2		v Australia	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+DA Warner (AUS)	30	28	14	5	1	214.28	2		v South Africa	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+BA Stokes (ENG)	30	157	110	2	0	27.27	3		v India	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+SCJ Broad (ENG)	31	45	32	1	2	96.87	1		v Australia	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+D Elgar (SA)	31	129	83	4	0	37.34	1		v India	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+MDK Perera (SL)	31	-	55	4	0	56.36	1		v Bangladesh	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+BJ Watling (NZ)	31	93	65	5	0	47.69	2		v England	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+HM Amla (SA)	31	128	87	3	0	35.63	1		v Australia	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+HM Amla (SA)	31	106	80	5	0	38.75	3		v Australia	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+Haris Sohail (PAK)	31	91	66	2	0	46.96	1		v Ireland	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+N Dickwella (SL)	31	149	78	3	0	39.74	2		v West Indies	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+AD Mathews (SL)	31	125	80	3	0	38.75	4		v West Indies	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+Mushfiqur Rahim (BDESH)	31	-	36	6	0	86.11	4		v West Indies	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+HH Pandya (INDIA)	31	86	61	4	0	50.81	4		v England	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+MDK Perera (SL)	32	-	68	4	0	47.05	2		v Bangladesh	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+FDM Karunaratne (SL)	32	-	105	0	0	30.47	3		v Bangladesh	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+AK Markram (SA)	32	82	59	6	0	54.23	2		v Australia	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+DA Warner (AUS)	32	100	67	4	0	47.76	4		v South Africa	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+WTS Porterfield (IRE)	32	195	120	3	0	26.66	3		v Pakistan	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+MDKJ Perera (SL)	32	-	55	5	0	58.18	1		v West Indies	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+Shakib Al Hasan (BDESH)	32	-	53	5	0	60.37	2		v West Indies	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+RL Chase (WI)	32	-	60	2	1	53.33	3		v Bangladesh	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+Q de Kock (SA)	32	33	31	3	0	103.22	2		v Sri Lanka	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+ARS Silva (SL)	32*	111	99	2	0	32.32	3		v South Africa	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+B Kumar (INDIA)	33	114	76	2	0	43.42	3		v South Africa	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+Mominul Haque (BDESH)	33	-	47	3	0	70.21	4		v Sri Lanka	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+SE Marsh (AUS)	33	153	99	5	0	33.33	3		v South Africa	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+Usman Salahuddin (PAK)	33	139	102	2	0	32.35	3		v England	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+JO Holder (WI)	33	-	46	2	2	71.73	2		v Bangladesh	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+KAJ Roach (WI)	33	-	50	6	1	66.00	2		v Bangladesh	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+Liton Das (BDESH)	33	-	33	6	0	100.00	4		v West Indies	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+C Overton (ENG)	33*	35	25	5	1	132.00	1		v New Zealand	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+VD Philander (SA)	33*	64	49	1	2	67.34	3		v Australia	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+GC Wilson (IRE)	33*	97	74	6	0	44.59	2		v Pakistan	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+RAS Lakmal (SL)	33*	61	46	5	0	71.73	3		v South Africa	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+JO Holder (WI)	33*	-	42	2	2	78.57	1		v Bangladesh	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+R Ashwin (INDIA)	33*	90	48	5	0	68.75	3		v England	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+AU Rashid (ENG)	33*	92	64	5	1	51.56	4		v India	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+AK Markram (SA)	34	65	43	7	0	79.06	3		v India	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+Imam-ul-Haq (PAK)	34	110	64	5	0	53.12	3		v England	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+TD Paine (AUS)	34*	148	84	3	0	40.47	2		v South Africa	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+KA Maharaj (SA)	35	72	47	3	1	74.46	1		v India	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+AB de Villiers (SA)	35	107	50	2	2	70.00	3		v India	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+VD Philander (SA)	35	75	55	5	0	63.63	2		v India	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+MA Starc (AUS)	35	38	25	4	2	140.00	1		v South Africa	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+MD Stoneman (ENG)	35	160	111	4	0	31.53	1		v New Zealand	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+CA Pujara (INDIA)	35	81	52	6	0	67.30	1		v Afghanistan	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+AD Mathews (SL)	35	139	86	1	1	40.69	3		v South Africa	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+HMRKB Herath (SL)	35	87	68	4	0	51.47	1		v South Africa	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+S Dhawan (INDIA)	35	84	65	7	0	53.84	1		v England	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+T Bavuma (SA)	35*	80	40	4	0	87.50	3		v Australia	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+TB de Bruyn (SA)	36	111	84	6	0	42.85	4		v Australia	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+TD Paine (AUS)	36	99	68	5	0	52.94	1		v South Africa	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+VD Philander (SA)	36	104	85	5	0	42.35	2		v Australia	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+JM Bairstow (ENG)	36	83	54	5	0	66.66	3		v New Zealand	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+KL Rahul (INDIA)	36	51	33	7	0	109.09	3		v England	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+KK Jennings (ENG)	36	138	87	6	0	41.37	3		v India	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+Hashmatullah Shahidi (AFG)	36*	130	88	6	0	40.90	3		v India	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+R Ashwin (INDIA)	37	81	53	5	0	69.81	4		v South Africa	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+JE Root (ENG)	37	80	63	5	0	58.73	1		v New Zealand	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+AK Markram (SA)	37	76	56	4	0	66.07	3		v Australia	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+Faheem Ashraf (PAK)	37	76	38	7	0	97.36	2		v England	Lord's	24 May 2018		/ci/engine/match/1119535.html
+D Elgar (SA)	37	76	80	4	0	46.25	4		v Sri Lanka	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+JM Bairstow (ENG)	38	183	143	4	0	26.57	3		v Australia	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+R Ashwin (INDIA)	38	71	54	7	0	70.37	2		v South Africa	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+SPD Smith (AUS)	38	97	81	3	0	46.91	3		v South Africa	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+CT Bancroft (AUS)	38	117	91	6	0	41.75	1		v South Africa	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+BA Stokes (ENG)	38	81	64	5	1	59.37	1		v Pakistan	Lord's	24 May 2018		/ci/engine/match/1119535.html
+KOA Powell (WI)	38	94	68	6	0	55.88	1		v Sri Lanka	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+RL Chase (WI)	38	112	83	5	0	45.78	1		v Sri Lanka	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+TD Paine (AUS)	38*	105	52	2	0	73.07	2		v England	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+Mehidy Hasan Miraz (BDESH)	38*	-	78	2	1	48.71	2		v Sri Lanka	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+AN Cook (ENG)	39	143	104	3	0	37.50	1		v Australia	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+TK Curran (ENG)	39	90	65	6	0	60.00	1		v Australia	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+Q de Kock (SA)	39	117	74	4	0	52.70	1		v Australia	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+Haris Sohail (PAK)	39	144	95	5	0	41.05	2		v England	Lord's	24 May 2018		/ci/engine/match/1119535.html
+KAJ Roach (WI)	39	116	95	6	1	41.05	1		v Sri Lanka	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+JO Holder (WI)	39	71	40	4	1	97.50	3		v Sri Lanka	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+LD Chandimal (SL)	39	-	112	1	0	34.82	3		v West Indies	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+SD Hope (WI)	39	-	115	4	1	33.91	4		v Sri Lanka	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+JC Buttler (ENG)	39	55	32	3	2	121.87	2		v India	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+Haris Sohail (PAK)	39*	39	32	6	1	121.87	4		v England	Lord's	24 May 2018		/ci/engine/match/1119535.html
+Imrul Kayes (BDESH)	40	-	75	4	0	53.33	1		v Sri Lanka	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+SE Marsh (AUS)	40	132	96	6	0	41.66	1		v South Africa	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+KJ O'Brien (IRE)	40	98	68	5	0	58.82	2		v Pakistan	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+JO Holder (WI)	40	121	88	4	0	45.45	1		v Sri Lanka	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+D Bishoo (WI)	40	197	160	5	0	25.00	1		v Sri Lanka	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+SM Curran (ENG)	40	67	49	5	1	81.63	2		v India	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+MM Ali (ENG)	40	141	85	2	2	47.05	1		v India	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+V Kohli (INDIA)	41	131	79	6	0	51.89	3		v South Africa	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+Tamim Iqbal (BDESH)	41	-	62	6	0	66.12	3		v Sri Lanka	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+RL Chase (WI)	41	-	68	5	0	60.29	2		v Sri Lanka	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+JA Burns (AUS)	42	108	80	5	1	52.50	4		v South Africa	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+N Dickwella (SL)	42	-	72	6	0	58.33	2		v West Indies	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+KK Jennings (ENG)	42	153	98	4	0	42.85	1		v India	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+Q de Kock (SA)	43	57	40	7	0	107.50	1		v India	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+EC Joyce (IRE)	43	127	98	6	0	43.87	3		v Pakistan	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+A Dananjaya (SL)	43*	118	91	7	0	47.25	1		v South Africa	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+SD Hope (WI)	44	130	70	9	0	62.85	1		v Sri Lanka	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+LD Chandimal (SL)	44	183	121	5	0	36.36	2		v West Indies	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+S Dhawan (INDIA)	44	104	63	6	0	69.84	3		v England	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+MR Marsh (AUS)	45	155	125	4	1	36.00	3		v South Africa	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+C de Grandhomme (NZ)	45	137	97	6	0	46.39	4		v England	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+KA Maharaj (SA)	45	65	51	4	2	88.23	1		v Australia	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+JE Root (ENG)	45	117	72	6	0	62.50	2		v Pakistan	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+BKG Mendis (SL)	45	-	83	8	0	54.21	1		v West Indies	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+M Vijay (INDIA)	46	154	126	6	0	36.50	2		v South Africa	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+AN Cook (ENG)	46	153	106	7	0	43.39	2		v Pakistan	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+V Kohli (INDIA)	46	100	71	6	0	64.78	2		v England	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+SM Curran (ENG)	46	128	83	6	0	55.42	3		v India	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+RG Sharma (INDIA)	47	102	74	6	1	63.51	4		v South Africa	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+NM Lyon (AUS)	47	58	38	8	0	123.68	2		v South Africa	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+Tamim Iqbal (BDESH)	47	-	105	6	0	44.76	2		v West Indies	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+F du Plessis (SA)	48	222	141	4	0	34.04	3		v India	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+AM Rahane (INDIA)	48	132	68	6	0	70.58	3		v South Africa	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+ARS Silva (SL)	48	-	115	2	0	41.73	3		v West Indies	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+KOA Powell (WI)	48	-	65	7	0	73.84	2		v Bangladesh	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+F du Plessis (SA)	48	59	51	8	1	94.11	2		v Sri Lanka	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+JE Root (ENG)	48	140	88	6	0	54.54	3		v India	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+DM Bess (ENG)	49	147	95	7	0	51.57	2		v Pakistan	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+F du Plessis (SA)	49	121	88	5	0	55.68	2		v Sri Lanka	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+CA Pujara (INDIA)	50	261	179	8	0	27.93	1		v South Africa	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+TG Southee (NZ)	50	82	48	8	1	104.16	2		v England	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+PJ Cummins (AUS)	50	127	92	6	1	54.34	2		v South Africa	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+Azhar Ali (PAK)	50	209	136	6	0	36.76	2		v England	Lord's	24 May 2018		/ci/engine/match/1119535.html
+DA Warner (AUS)	51	119	79	6	0	64.55	1		v South Africa	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+JE Root (ENG)	51	191	131	5	0	38.93	3		v New Zealand	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+V Kohli (INDIA)	51	185	93	4	0	54.83	4		v England	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+AM Rahane (INDIA)	51	207	159	1	0	32.07	4		v England	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+HM Amla (SA)	52	240	140	5	0	37.14	4		v India	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+Tamim Iqbal (BDESH)	52	-	53	6	1	98.11	1		v Sri Lanka	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+CR Woakes (ENG)	52	164	118	8	0	44.06	3		v New Zealand	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+MA Wood (ENG)	52	79	62	7	1	83.87	1		v New Zealand	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+Shadab Khan (PAK)	52	126	85	6	0	61.17	2		v England	Lord's	24 May 2018		/ci/engine/match/1119535.html
+VD Philander (SA)	52*	127	79	6	1	65.82	3		v Australia	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+HH Pandya (INDIA)	52*	71	52	7	1	100.00	3		v England	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+CT Bancroft (AUS)	53	115	83	10	0	63.85	3		v South Africa	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+DJ Malan (ENG)	53	152	105	7	0	50.47	3		v New Zealand	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+UT Khawaja (AUS)	53	124	84	9	0	63.09	2		v South Africa	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+SR Thompson (IRE)	53	150	116	6	0	45.68	3		v Pakistan	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+FDM Karunaratne (SL)	53	147	110	4	0	48.18	1		v South Africa	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+V Kohli (INDIA)	54	146	106	9	0	50.94	1		v South Africa	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+JE Root (ENG)	54	182	128	4	0	42.18	3		v New Zealand	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+KL Rahul (INDIA)	54	108	64	8	0	84.37	1		v Afghanistan	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+Shakib Al Hasan (BDESH)	54	-	81	10	0	66.66	4		v West Indies	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+MD Stoneman (ENG)	55	123	91	6	1	60.43	3		v New Zealand	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+Shadab Khan (PAK)	55	139	105	7	0	52.38	1		v Ireland	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+SO Dowrich (WI)	55	-	98	5	1	56.12	2		v Sri Lanka	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+DA Warner (AUS)	56	122	104	6	0	53.84	2		v England	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+ARS Silva (SL)	56	-	124	3	1	45.16	1		v Bangladesh	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+SPD Smith (AUS)	56	155	114	11	0	49.12	1		v South Africa	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+HM Amla (SA)	56	203	148	6	0	37.83	2		v Australia	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+Shadab Khan (PAK)	56	97	52	10	0	107.69	1		v England	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+IS Sodhi (NZ)	56*	200	168	9	0	33.33	4		v England	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+D Elgar (SA)	57	306	197	6	0	28.93	2		v Australia	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+DM Bess (ENG)	57	191	106	8	0	53.77	3		v Pakistan	Lord's	24 May 2018		/ci/engine/match/1119535.html
+MD Gunathilaka (SL)	57	157	107	6	0	53.27	1		v South Africa	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+DS Smith (WI)	58	-	123	7	0	47.15	2		v Bangladesh	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+V Kohli (INDIA)	58	170	130	4	0	44.61	4		v England	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+JE Root (ENG)	58*	236	167	1	0	34.73	3		v Australia	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+Babar Azam (PAK)	59	142	114	8	0	51.75	4		v Ireland	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+Asad Shafiq (PAK)	59	142	100	6	1	59.00	2		v England	Lord's	24 May 2018		/ci/engine/match/1119535.html
+KC Brathwaite (WI)	59*	-	172	6	0	34.30	4		v Sri Lanka	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+MD Stoneman (ENG)	60	185	139	6	0	43.16	3		v New Zealand	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+FDM Karunaratne (SL)	60	137	80	7	0	75.00	3		v South Africa	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+DM de Silva (SL)	60	191	109	8	0	55.04	1		v South Africa	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+D Elgar (SA)	61	198	121	8	1	50.41	3		v India	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+HM Amla (SA)	61	239	121	7	0	50.41	2		v India	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+DS Smith (WI)	61	-	176	4	1	34.65	2		v Sri Lanka	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+MD Gunathilaka (SL)	61	67	68	6	2	89.70	3		v South Africa	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+DJ Malan (ENG)	62	249	180	6	0	34.44	1		v Australia	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+F du Plessis (SA)	62	141	104	12	0	59.61	1		v India	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+N Dickwella (SL)	62	-	61	9	0	101.63	2		v Bangladesh	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+TD Paine (AUS)	62	161	96	7	2	64.58	2		v South Africa	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+Asad Shafiq (PAK)	62	169	121	8	0	51.23	1		v Ireland	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+N Dickwella (SL)	62	-	70	7	0	88.57	3		v West Indies	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+BA Stokes (ENG)	62	275	187	6	0	33.15	4		v India	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+F du Plessis (SA)	63	216	142	9	0	44.36	1		v India	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+DA Warner (AUS)	63	156	100	9	0	63.00	1		v South Africa	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+AB de Villiers (SA)	63	221	136	7	1	46.32	3		v Australia	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+T Bavuma (SA)	63	133	98	4	0	64.28	4		v Sri Lanka	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+SM Curran (ENG)	63	102	65	9	2	96.92	3		v India	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+AB de Villiers (SA)	64	136	95	10	0	67.36	1		v Australia	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+Nurul Hasan (BDESH)	64	-	74	6	2	86.48	3		v West Indies	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+AB de Villiers (SA)	65	135	84	11	0	77.38	1		v India	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+Q de Kock (SA)	65	145	97	8	1	67.01	3		v Australia	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+BA Stokes (ENG)	66	264	188	6	0	35.10	3		v New Zealand	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+JC Buttler (ENG)	67	185	138	6	0	48.55	3		v Pakistan	Lord's	24 May 2018		/ci/engine/match/1119535.html
+SD Hope (WI)	67	-	127	3	1	52.75	2		v Bangladesh	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+BKG Mendis (SL)	68	-	98	10	1	69.38	1		v Bangladesh	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+JE Root (ENG)	68	187	120	8	0	56.66	3		v Pakistan	Lord's	24 May 2018		/ci/engine/match/1119535.html
+Babar Azam (PAK)	68*	155	120	10	0	56.66	2		v England	Lord's	24 May 2018		/ci/engine/match/1119535.html
+AB de Villiers (SA)	69	173	119	7	1	57.98	1		v Australia	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+JC Buttler (ENG)	69	164	122	7	0	56.55	3		v India	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+AN Cook (ENG)	70	221	148	14	0	47.29	1		v Pakistan	Lord's	24 May 2018		/ci/engine/match/1119535.html
+JM Bairstow (ENG)	70	119	88	9	0	79.54	1		v India	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+ARS Silva (SL)	70*	-	145	10	0	48.27	3		v Bangladesh	Dhaka	8 Feb 2018		/ci/engine/match/1130745.html
+HH Pandya (INDIA)	71	130	94	10	0	75.53	1		v Afghanistan	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+SO Dowrich (WI)	71	-	132	9	0	53.78	1		v Sri Lanka	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+AD Mathews (SL)	71	199	147	7	0	48.29	3		v South Africa	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+AB de Villiers (SA)	71*	202	127	11	0	55.90	2		v Australia	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+C de Grandhomme (NZ)	72	207	151	7	0	47.68	2		v England	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+CA Pujara (INDIA)	72	248	208	9	0	34.61	3		v England	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+JO Holder (WI)	74	-	123	13	0	60.16	1		v Sri Lanka	Bridgetown	23 Jun 2018		/ci/engine/match/1135151.html
+Imam-ul-Haq (PAK)	74*	199	121	8	0	61.15	4		v Ireland	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+UT Khawaja (AUS)	75	225	136	14	0	55.14	3		v South Africa	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+JM Vince (ENG)	76	179	128	10	0	59.37	3		v New Zealand	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+CT Bancroft (AUS)	77	178	103	14	0	74.75	2		v South Africa	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+SM Curran (ENG)	78	188	136	8	1	57.35	1		v India	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+AB de Villiers (SA)	80	156	121	10	0	66.11	3		v India	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+JE Root (ENG)	80	243	156	9	0	51.28	1		v India	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+JC Buttler (ENG)	80*	174	101	11	2	79.20	2		v Pakistan	Leeds	1 Jun 2018		/ci/engine/match/1119536.html
+D Elgar (SA)	81	378	250	10	1	32.40	3		v Australia	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+AM Rahane (INDIA)	81	171	131	12	0	61.83	1		v England	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+HM Amla (SA)	82	208	153	14	0	53.59	1		v India	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+JE Root (ENG)	83	225	141	8	0	58.86	1		v Australia	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+SPD Smith (AUS)	83	254	158	5	0	52.53	2		v England	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+Q de Kock (SA)	83	218	149	11	0	55.70	4		v Australia	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+TWM Latham (NZ)	83	282	207	10	0	40.09	4		v England	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+Faheem Ashraf (PAK)	83	170	115	9	1	72.17	1		v Ireland	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+Mahmudullah (BDESH)	83*	-	134	7	2	61.94	1		v Sri Lanka	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+AK Markram (SA)	84	216	145	10	2	57.93	3		v Australia	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+BJ Watling (NZ)	85	306	220	11	1	38.63	2		v England	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+FDM Karunaratne (SL)	85	195	136	12	0	62.50	3		v South Africa	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+SO Hetmyer (WI)	86	-	105	9	1	81.90	1		v Bangladesh	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+D Elgar (SA)	86*	356	240	9	1	35.83	4		v India	Johannesburg	24 Jan 2018		/ci/engine/match/1122278.html
+LD Chandimal (SL)	87	-	185	3	0	47.02	2		v Bangladesh	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+BKG Mendis (SL)	87	-	117	8	2	74.35	3		v West Indies	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+KOA Powell (WI)	88	201	127	7	2	69.29	3		v Sri Lanka	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+Mushfiqur Rahim (BDESH)	92	-	192	10	0	47.91	1		v Sri Lanka	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+HH Pandya (INDIA)	93	153	95	14	1	97.89	2		v South Africa	Cape Town	5 Jan 2018		/ci/engine/match/1122276.html
+JM Bairstow (ENG)	93	202	144	12	0	64.58	2		v India	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+AK Markram (SA)	94	202	150	15	0	62.66	1		v India	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+Liton Das (BDESH)	94	-	182	11	0	51.64	3		v Sri Lanka	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+T Bavuma (SA)	95*	285	194	13	0	48.96	1		v Australia	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+MR Marsh (AUS)	96	265	173	13	1	55.49	1		v South Africa	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+V Kohli (INDIA)	97	243	152	11	0	63.81	1		v England	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+MR Marsh (AUS)	101	191	141	15	2	71.63	2		v England	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+JM Bairstow (ENG)	101	252	170	11	1	59.41	1		v New Zealand	Christchurch	30 Mar 2018		/ci/engine/match/1115781.html
+TB de Bruyn (SA)	101	257	232	12	0	43.53	4		v Sri Lanka	Colombo (SSC)	20 Jul 2018		/ci/engine/match/1142582.html
+KS Williamson (NZ)	102	319	220	11	1	46.36	2		v England	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+BKG Mendis (SL)	102	268	210	10	2	48.57	4		v West Indies	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+V Kohli (INDIA)	103	292	197	10	0	52.28	3		v England	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+Mominul Haque (BDESH)	105	-	174	5	2	60.34	3		v Sri Lanka	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+M Vijay (INDIA)	105	233	153	15	1	68.62	1		v Afghanistan	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+JC Buttler (ENG)	106	251	176	21	0	60.22	4		v India	Nottingham	18 Aug 2018		/ci/engine/match/1119551.html
+S Dhawan (INDIA)	107	128	96	19	3	111.45	1		v Afghanistan	Bengaluru	14 Jun 2018		/ci/engine/match/1133983.html
+ARS Silva (SL)	109	-	230	6	1	47.39	2		v Bangladesh	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+KC Brathwaite (WI)	110	-	279	9	0	39.42	1		v Bangladesh	Kingston	12 Jul 2018		/ci/engine/match/1146718.html
+KJ O'Brien (IRE)	118	344	217	12	0	54.37	3		v Pakistan	Dublin (Malahide)	11 May 2018		/ci/engine/match/1127284.html
+LD Chandimal (SL)	119*	-	186	10	1	63.97	1		v West Indies	Gros Islet	14 Jun 2018		/ci/engine/match/1135150.html
+F du Plessis (SA)	120	227	178	18	2	67.41	3		v Australia	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+KC Brathwaite (WI)	121	-	291	11	0	41.58	2		v Bangladesh	North Sound	4 Jul 2018		/ci/engine/match/1146717.html
+SO Dowrich (WI)	125*	468	325	12	0	38.46	1		v Sri Lanka	Port of Spain	6 Jun 2018		/ci/engine/match/1135149.html
+AB de Villiers (SA)	126*	261	146	20	1	86.30	2		v Australia	Port Elizabeth	9 Mar 2018		/ci/engine/match/1075983.html
+CA Pujara (INDIA)	132*	355	257	16	0	51.36	2		v England	Southampton	30 Aug 2018		/ci/engine/match/1119552.html
+CR Woakes (ENG)	137*	252	177	21	0	77.40	2		v India	Lord's	9 Aug 2018		/ci/engine/match/1119550.html
+D Elgar (SA)	141*	434	284	20	1	49.64	1		v Australia	Cape Town	22 Mar 2018		/ci/engine/match/1075984.html
+AK Markram (SA)	143	340	218	19	0	65.59	4		v Australia	Durban	1 Mar 2018		/ci/engine/match/1075982.html
+HM Nicholls (NZ)	145*	407	268	18	0	54.10	2		v England	Auckland	22 Mar 2018		/ci/engine/match/1115780.html
+V Kohli (INDIA)	149	277	225	22	1	66.22	2		v England	Birmingham	1 Aug 2018		/ci/engine/match/1119549.html
+AK Markram (SA)	152	309	216	17	1	70.37	1		v Australia	Johannesburg	30 Mar 2018		/ci/engine/match/1075985.html
+V Kohli (INDIA)	153	379	217	15	0	70.50	2		v South Africa	Centurion	13 Jan 2018		/ci/engine/match/1122277.html
+SE Marsh (AUS)	156	403	291	18	0	53.60	2		v England	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+FDM Karunaratne (SL)	158*	360	222	13	1	71.17	1		v South Africa	Galle	12 Jul 2018		/ci/engine/match/1142581.html
+UT Khawaja (AUS)	171	514	381	18	1	44.88	2		v England	Sydney	4 Jan 2018		/ci/engine/match/1072309.html
+DM de Silva (SL)	173	-	229	21	1	75.54	2		v Bangladesh	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+Mominul Haque (BDESH)	176	-	214	16	1	82.24	1		v Sri Lanka	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
+BKG Mendis (SL)	196	-	327	22	2	59.93	2		v Bangladesh	Chittagong	31 Jan 2018		/ci/engine/match/1130744.html
