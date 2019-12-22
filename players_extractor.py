@@ -13,7 +13,7 @@ def get_player_aggr(player_html_tr):
 
 
 def aggregates_generator(page_num):
-    print "Extracting page no. %d" % page_num
+    print("Extracting page no. %d" % page_num)
     url = batting_url % (match_class['odi'], page_num)
     html = urllib2.urlopen(url).read()
     soup = BeautifulSoup(html, "html.parser")
