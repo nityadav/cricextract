@@ -3,6 +3,3 @@ def sanitize_name(name: str):
     for s in unwanted_strs:
         name.replace(s, "")
     return name
-
-def get_player_id_from_href(href):
-    pass
