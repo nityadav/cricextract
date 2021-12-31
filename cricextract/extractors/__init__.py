@@ -1,7 +1,15 @@
 from abc import ABC, abstractmethod
 import logging
 import urllib.request
+
+from bs4 import BeautifulSoup
 from retry import retry
+
+
+class SoupExtractor(ABC):
+    @abstractmethod
+    def extract(self, soup: BeautifulSoup):
+        pass
 
 
 class Extractor(ABC):

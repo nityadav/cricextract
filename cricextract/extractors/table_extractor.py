@@ -1,7 +1,9 @@
-from bs4 import BeautifulSoup
-from cricextract.extractors import Extractor
-from cricextract.extractors import Collector
 import json
+
+from bs4 import BeautifulSoup
+
+from cricextract.extractors import Collector
+from cricextract.extractors import Extractor
 
 
 class TableExtractor(Extractor):
